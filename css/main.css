@@ -5,20 +5,20 @@
 html {
     background-color: lightgray;
     font-family: 'Quicksand', sans-serif;
-    font-size: 0.95em;
-    line-height: 1.5em;
+    font-size: 0.93em;
+    line-height: 1.2em;
 }
 
 ::selection {
     color: #000; 
-    background: #ff0;
+    background: #808022;
 }
 
 h1 {
     font-weight: normal;
     margin: auto;
     background: #fff;
-    line-height: 2.5em;
+    line-height: 2.3em;
 }
 
 main.wrapper {
@@ -68,9 +68,9 @@ footer {
     }
     
     picture.profile img {
-        width: 50%;
+        width: 30%;
         float: left;
-        margin-right: 2em;
+        margin-right: 3em;
     }
     
 }
